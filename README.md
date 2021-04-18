@@ -4,7 +4,6 @@ Solutions for Deep Learning Nanodegree by Udacity
 
 
 
-# Udacity-Deep-Learning-Nanodegree
 
 ### Program outline:
 
